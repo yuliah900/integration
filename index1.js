@@ -1,5 +1,6 @@
 const API_URL = "http://localhost:3000";
 // const API_URL = "https://capstone-be-icanq-production.up.railway.app"
+const API_URL = "https://be-2-bandung-12-production.up.railway.app"
 
 
 document.addEventListener("DOMContentLoaded", async () => {
